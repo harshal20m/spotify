@@ -54,7 +54,7 @@ For any questions or suggestions, feel free to contact me at [20harshalmali@gmai
 
 ## Link to Project Page
 
-Check out the live project page [here](https://harshal20m.github.io/spotify-music-app-clone).
+Check out the live project page [here](https://harshal20m.github.io/spotify/).
 
 ---
 
